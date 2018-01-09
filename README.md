@@ -35,7 +35,7 @@ Based on the TIL idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Other TIL Collections
 
-* [jbranchaud/til](https://github.com/jbranchaud/til))
+* [jbranchaud/til](https://github.com/jbranchaud/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
 
 ## License
