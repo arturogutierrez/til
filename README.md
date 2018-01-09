@@ -6,13 +6,20 @@ to keep a track about useful things that don't need a full blog post.
 TILs are short Markdown documents with a few description and example about what
 I have learned recently.
 
-_1 TILs_
+_2 TILs_
 
 ---
 
 ### Categories
 
+* [Android](#android)
 * [Slack](#slack)
+
+---
+
+### Android
+
+- [Exclude generated code from searches or usages in Android Studio](androidstudio/exclude-generated-code-from-searches-or-usages.md)
 
 ---
 
