@@ -6,20 +6,27 @@ to keep a track about useful things that don't need a full blog post.
 TILs are short Markdown documents with a few description and example about what
 I have learned recently.
 
-_2 TILs_
+_3 TILs_
 
 ---
 
 ### Categories
 
 * [Android](#android)
+* [Kotlin](#kotlin)
 * [Slack](#slack)
 
 ---
 
 ### Android
 
-- [Exclude generated code from searches or usages in Android Studio](androidstudio/exclude-generated-code-from-searches-or-usages.md)
+- [Exclude generated code from searches or usages in Android Studio](android/exclude-generated-code-from-searches-or-usages.md)
+
+---
+
+### Kotlin
+
+- [Check an argument when verifying using Mockito Kotlin](kotlin/check-an-argument-when-verifying-using-mockito-kotlin.md)
 
 ---
 
