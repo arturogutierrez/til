@@ -6,7 +6,7 @@ to keep a track about useful things that don't need a full blog post.
 TILs are short Markdown documents with a few description and example about what
 I have learned recently.
 
-_3 TILs_
+_4 TILs_
 
 ---
 
@@ -27,6 +27,7 @@ _3 TILs_
 ### Kotlin
 
 - [Check an argument when verifying using Mockito Kotlin](kotlin/check-an-argument-when-verifying-using-mockito-kotlin.md)
+- [Pass an Array or vararg parameter as vararg in Kotlin](kotlin/pass-array-vararg-parameter-as-vararg-in-Kotlin.md)
 
 ---
 
